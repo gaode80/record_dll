@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.16)
 
-project(record_dll LANGUAGES CXX)
+project(record LANGUAGES CXX)
 enable_language(CXX C)
 
 set(CMAKE_PREFIX_PATH $ENV{QTDIR512_64})
